@@ -1,0 +1,9 @@
+numpy
+pandas
+opencv-python
+scikit-image
+scipy
+statsmodels
+# Optional, only for --run_pymc_mixed:
+# pymc
+# arviz
